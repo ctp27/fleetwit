@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FleetWit</string>
+    <string name="level_label">Level</string>
+</resources>
