@@ -19,7 +19,7 @@ captures/
 build/
 
 # Local configuration file
-local.properties
+# local.properties
 
 # System files
 .DS_Store
@@ -31,6 +31,6 @@ keystore.properties
 google-services.json
 
 # Gradle properties
-gradle.properties
+# gradle.properties
 
 # Keystore file

@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">FleetWit</string>
-    <string name="level_label">Level</string>
+    <string name="level_label">LEVEL</string>
+    <string name="score_label">SCORE</string>
+    <string name="start_btn_label">Start</string>
+    <string name="your_score_label">Your Score</string>
+    <string name="play_again_text">Play Again</string>
 </resources>
