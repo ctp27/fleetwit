@@ -5,4 +5,152 @@
     <string name="start_btn_label">Start</string>
     <string name="your_score_label">Your Score</string>
     <string name="play_again_text">Play Again</string>
+
+
+    <string name="question1">In the year 1900 in the U.S. what were the most popular first names given to boy and girl babies?</string>
+    <string name="option1">William and Elizabeth</string>
+    <string name="option2">Joseph and Catherine</string>
+    <string name="option3">John and Mary</string>
+    <string name="option4">George and Anne</string>
+    <string name="answer1">John and Mary</string>
+
+    <string name="question2">When did the Liberty Bell get its name?</string>
+    <string name="option21">when it was made, in 1701</string>
+    <string name="option22">when it rang on July 4, 1776</string>
+    <string name="option23">in the 19th century, when it became a symbol of the abolition of slavery</string>
+    <string name="option24">none of the above</string>
+    <string name="answer2">in the 19th century, when it became a symbol of the abolition of slavery</string>
+
+    <string name="question3">In the Roy Rogers -Dale Evans Museum, you will find Roy and Dales stuffed horses. Roy\'s horse was named Trigger, which was Dales horse?</string>
+    <string name="option31">Buttermilk</string>
+    <string name="option32">Daisy</string>
+    <string name="option33">Scout</string>
+    <string name="option34">Tulip</string>
+    <string name="answer3">Buttermilk</string>
+
+    <string name="question4">The Daniel Boon museum at the home where he died can best be described how?</string>
+    <string name="option41">a log cabin in Kentucky</string>
+    <string name="option42">a two-story clapboard house in Tennessee</string>
+    <string name="option43">a four-story Georgian-style home in Missouri</string>
+    <string name="option44">a three story brick house in Arkansas</string>
+    <string name="answer4">a four-story Georgian-style home in Missouri</string>
+
+    <string name="question5">Which of the following items was owned by the fewest U.S. homes in 1990?</string>
+    <string name="option51">Home computer</string>
+    <string name="option52">Compact disk player</string>
+    <string name="option53">Cordless phone</string>
+    <string name="option54">Dishwasher</string>
+    <string name="answer5">Compact disk player</string>
+
+    <string name="question6">Who holds the record for the most victories in a row on the professional golf tour?</string>
+    <string name="option61">Jack Nicklaus</string>
+    <string name="option62">Arnold Palmer</string>
+    <string name="option63">Byron Nelson</string>
+    <string name="option64">Ben Hogan</string>
+    <string name="answer6">Byron Nelson</string>
+
+    <string name="question7">Who is third behind Hank Aaron and Babe Ruth in major league career home runs?</string>
+    <string name="option71">Reggie Jackson</string>
+    <string name="option72">Harmon Killebrew</string>
+    <string name="option73">Willie Mays</string>
+    <string name="option74">Frank Robinson</string>
+    <string name="answer7">Willie Mays</string>
+
+    <string name="question8">In 1990, in what percentage of U.S. married couples did the wife earn more money than the husband?</string>
+    <string name="option81">8</string>
+    <string name="option82">18</string>
+    <string name="option83">38</string>
+    <string name="option84">58</string>
+    <string name="answer8">18</string>
+
+    <string name="question9">During the 1980s for six consecutive years what breed of dog was the most popular in the U.S.?</string>
+    <string name="option91">Cocker spaniel</string>
+    <string name="option92">German shepherd</string>
+    <string name="option93">Labrador retriever</string>
+    <string name="option94">Poodle</string>
+    <string name="answer9">Cocker spaniel</string>
+
+    <string name="question10">In 1985, five percent of U.S. households had telephone answering machines. By 1990 what percentage of homes had answering machines?</string>
+    <string name="option101">10 percent</string>
+    <string name="option102">15 percent</string>
+    <string name="option103">31 percent</string>
+    <string name="option104">51 percent</string>
+    <string name="answer10">31 percent</string>
+
+    <string name="question11">The first black American pictured on a U.S. postage stamp was who?</string>
+    <string name="option111">Frederick Douglass</string>
+    <string name="option112">Booker T. Washington</string>
+    <string name="option113">Louis Armstrong</string>
+    <string name="option114">Joe Louis</string>
+    <string name="answer11">Joe Louis</string>
+
+
+    <string name="question12">What did the "D" in "D-Day" stand for?</string>
+    <string name="option121">Doom</string>
+    <string name="option122">Day</string>
+    <string name="option123">Dwight (Eisenhower)</string>
+    <string name="option124">Dunkirk</string>
+    <string name="answer12">Day</string>
+
+    <string name="question13">The Brownie Box Camera introduced by Eastman Kodak in 1900 had a retail price of what?</string>
+    <string name="option131">$1</string>
+    <string name="option132">$5</string>
+    <string name="option133">$10</string>
+    <string name="option134">$20</string>
+    <string name="answer13">$1</string>
+
+    <string name="question14">Which of these characters turned 40 years old in 1990?</string>
+    <string name="option141">Charlie Brown</string>
+    <string name="option142">Bugs Bunny</string>
+    <string name="option143">Mickey Mouse</string>
+    <string name="option144">Fred Flintstone</string>
+    <string name="answer14">Charlie Brown</string>
+
+
+    <string name="question15">The Philadelphia mint started putting a "P" mint mark on quarters when?</string>
+    <string name="option151">1960</string>
+    <string name="option152">1980</string>
+    <string name="option153">Never</string>
+    <string name="option154">1990</string>
+    <string name="answer15">1980</string>
+
+
+    <string name="question16">Before becoming George Bush\'s Secretary of Defense, what was Dick Cheney's position?</string>
+    <string name="option161">Congressman from Wyoming</string>
+    <string name="option162">Governor of New Hampshire</string>
+    <string name="option163">Secretary of defense under Ronald Reagan</string>
+    <string name="option164">Snake Charmer in India</string>
+    <string name="answer16">Congressman from Wyoming</string>
+
+    <string name="question17">When Mt. St. Helens erupted on May 18, 1980, how many people were killed?</string>
+    <string name="option171">1</string>
+    <string name="option172">57</string>
+    <string name="option173">571</string>
+    <string name="option174">5717</string>
+    <string name="answer17">57</string>
+
+    <string name="question18">In J. Edgar Hoover, what did the J stand for?</string>
+    <string name="option181">James</string>
+    <string name="option182">John</string>
+    <string name="option183">Joseph</string>
+    <string name="option184">Jacob</string>
+    <string name="answer18">John</string>
+
+
+    <string name="question19">Florence Nightingale became known as "the Lady With the Lamp" during which war?</string>
+    <string name="option191">American Civil War</string>
+    <string name="option192">Crimean War</string>
+    <string name="option193">World War I</string>
+    <string name="option194">World War II</string>
+    <string name="answer19">Crimean War</string>
+
+    <string name="question20">What year was it that the Census Bureau first reported that a majority of new mothers  were remaining in the new job market?</string>
+    <string name="option201">1968</string>
+    <string name="option202">1978</string>
+    <string name="option203">1988</string>
+    <string name="option204">1999</string>
+    <string name="answer20">1988</string>
+
+
+
 </resources>
