@@ -24,10 +24,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guidline1"
-        tools:text="Your Score" />
+        android:text="@string/your_score" />
 
     <TextView
-        android:id="@+id/result_score"
+        android:id="@+id/resultScore"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -51,7 +51,7 @@
         android:text="@string/play_again_text"
         app:layout_constraintEnd_toEndOf="@+id/results_score_label"
         app:layout_constraintStart_toStartOf="@+id/results_score_label"
-        app:layout_constraintTop_toBottomOf="@+id/result_score" />
+        app:layout_constraintTop_toBottomOf="@+id/resultScore" />
 
 
     <Button
@@ -63,7 +63,7 @@
         android:layout_marginTop="16dp"
         android:background="@color/colorAccent"
         android:padding="8dp"
-        android:text="Back to Main Menu"
+        android:text="@string/back_to_main_menu"
         app:layout_constraintEnd_toEndOf="@+id/results_score_label"
         app:layout_constraintStart_toStartOf="@+id/results_score_label"
         app:layout_constraintTop_toBottomOf="@+id/result_play_again" />

@@ -151,6 +151,9 @@
     <string name="option204">1999</string>
     <string name="answer20">1988</string>
 
-
+    <string name="score_text">%1$s/%2$s</string>
+    <string name="level_text">%1$s/%2$s</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="your_score">Your Score</string>
 
 </resources>

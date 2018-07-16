@@ -8,7 +8,7 @@ class FleetwitUtils{
 
     companion object {
 
-        fun populateLists(context:Context) : List<Question>{
+        fun populateLists(context:Context) : ArrayList<Question>{
 
             val questions = arrayListOf<Question>()
 
@@ -17,21 +17,21 @@ class FleetwitUtils{
                     context.getString(R.string.option2),
                     context.getString(R.string.option3),
                     context.getString(R.string.option4),
-                    context.getString(R.string.answer1)))
+                    context.getString(R.string.answer1)))//
 
             questions.add(Question(context.getString(R.string.question2),
                     context.getString(R.string.option21),
                     context.getString(R.string.option22),
                     context.getString(R.string.option23),
                     context.getString(R.string.option24),
-                    context.getString(R.string.answer2)))
+                    context.getString(R.string.answer2)))//
 
             questions.add(Question(context.getString(R.string.question3),
                     context.getString(R.string.option31),
                     context.getString(R.string.option32),
                     context.getString(R.string.option33),
                     context.getString(R.string.option34),
-                    context.getString(R.string.answer3)))
+                    context.getString(R.string.answer3)))//
 
 
             questions.add(Question(context.getString(R.string.question4),
@@ -39,7 +39,7 @@ class FleetwitUtils{
                     context.getString(R.string.option42),
                     context.getString(R.string.option43),
                     context.getString(R.string.option44),
-                    context.getString(R.string.answer4)))
+                    context.getString(R.string.answer4)))//
 
 
             questions.add(Question(context.getString(R.string.question5),
