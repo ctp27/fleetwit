@@ -157,6 +157,7 @@ class MainActivity : AppCompatActivity(),QuizFragment.QuizFragmentCallback{
 
 
         private fun populateQuestionSet() : IntArray{
+
             val questionSet = HashSet<Int>()
             val random = Random()
             while (questionSet.size < QUESTION_SET_SIZE) {
